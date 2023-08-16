@@ -1,1 +1,2 @@
 # MPC_RTI
+Real Time Iteration (RTI) of the Model Predictive Control (MPC) for the inverted pendulum using ACADO Toolbox is implemented. You can find the code in the MPC Project Code file. This project is the simulation of the paper "Real-Time Iteration as a Connector Between Linear and Nonlinear MPC" by Sebastien Gros, Mario Zanon, Rien Quirynen, Alberto Bemporad, and Moritz Dieh. The MPC-Project file is rewriten version of the paper using my thoughts.
